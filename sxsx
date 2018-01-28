@@ -1,0 +1,37 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 70e9b57..3985fac 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -3,7 +3,7 @@[m
+ 	<head>[m
+ 		<meta charset="UTF-8">[m
+ 		<meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[31m-		<title>Komponenty Bootstrap</title>[m
+[32m+[m		[32m<title>Bootstrap komponenty</title>[m
+ 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">[m
+ 		<link rel="stylesheet" type="text/css" href="style.css">[m
+ 	</head>[m
+[36m@@ -29,12 +29,12 @@[m
+ 		</nav>[m
+ 		<section class="jumbotron">[m
+ 			<div class="container text-center">[m
+[31m-				<h1>Komponenty <small>Bootstrap</small></h1><br>[m
+[32m+[m				[32m<h1>Bootstrap, <small>komponenty</small></h1><br>[m
+ 				<button type="button" class="btn btn-primary btn-lg">Blue button</button>[m
+ 			</div>[m
+ 		</section>[m
+ 		<section class="jumbotron container-fluid">[m
+[31m-			<h1 class="text-center text-uppercase">Góry</h1><br>[m
+[32m+[m			[32m<h1 class="text-center text-uppercase">Galeria</h1><br>[m
+ 			<div class="gallery-1 row">[m
+ 				<div class="col-md-3 col-sm-6 col-xs-12">[m
+ 					<img src="https://cdn.pixabay.com/photo/2017/03/27/04/37/sunset-2177324_1280.jpg" alt="image" class="img-responsive img-rounded">[m
+[36m@@ -140,7 +140,7 @@[m
+     					</a>[m
+     				</div>[m
+     				<div class="media-body">[m
+[31m-        				<h2 class="media-heading">Najwyższy szczyt ziemi</h2>[m
+[32m+[m[41m        [m				[32m<h2 class="media-heading">Mount Everest</h2>[m
+         				<p class="text-justify">Mount Everest, Czomolungma – najwyższy szczyt Ziemi, ośmiotysięcznik położony w Himalajach Wysokich, na granicy Nepalu i Chińskiej Republiki Ludowej. Jest zbudowany z granitów, gnejsów oraz z wapieni i łupków. Mount Everest jest znany na świecie, przede wszystkim z tego powodu, że jest najwyższą górą. Jednakże przez wiele lat ludzie starali się zmierzyć jego wysokość, która aktualnie dzisiaj wynosi według różnych źrodeł od 8848 do 8850 metrów n.p.m.. W każdym razie Everest  rośnie nawet o 10 cm rocznie.</p>[m
+     				</div>[m
+ 				</div>[m
